@@ -1,3 +1,6 @@
+//CRAN R code to analyze disruption of plant-pollinator networks for the article: Disruption of biological processes in the Anthropocene: the case of phenological mismatch
+//Author Maël Montévil
+
 #include <Rcpp.h>
 using namespace Rcpp;
 // [[Rcpp::plugins(cpp14)]]
