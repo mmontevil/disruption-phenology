@@ -18,7 +18,7 @@ library(cocor)
 #number of  CPU cores
 coreNb=14
 
-basedir="/home/kamome/Work/Articles/inprocess/disruption-phenology/analysis/fordryad/"
+basedir="/home/kamome/Work/Articles/inprocess/disruption-phenology/analysis/disruption-phenology/"
 sourcedir=basedir
 datadir=paste( basedir,"data/",sep="") 
 outdir=paste( basedir,"output/",sep="") 
