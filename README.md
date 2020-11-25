@@ -1,9 +1,9 @@
-Author: Maël Montévil
 # disruption-phenology
 CRAN R code to analyze disruption of plant-pollinator networks for the article: 
 _Disruption of biological processes in the Anthropocene: the case of phenological mismatch_
+Author: Maël Montévil
 
-Cite as Montévil, M. 2020, code for: Disruption of biological processes in the Anthropocene: the case of phenological mismatch
+Cite as Montévil, M. 2020, _code for: Disruption of biological processes in the Anthropocene: the case of phenological mismatch_
 
 [![DOI](https://zenodo.org/badge/315939416.svg)](https://zenodo.org/badge/latestdoi/315939416)
 
