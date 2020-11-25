@@ -1,3 +1,0 @@
-output of computations 
-####
-
