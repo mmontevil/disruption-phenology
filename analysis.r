@@ -11,7 +11,6 @@
 #initialize global variables and load functions
 ##########################################
 
-options(browser = "firefox")
 library(bipartite)
 library(cocor)
 
@@ -26,7 +25,6 @@ dataRefs=paste( basedir,"data/references6.csv",sep="")
 
 
 
-refs<- read.csv(file =dataRefs,header=T)
 beephen <- read.csv(file = paste(datadir,"dryad - bee phen.csv",sep=""))
 plantphen<-read.csv(file =paste(datadir,"dryad - plant phen.csv",sep="" ))
 source(paste(sourcedir,'toolbox.r',sep="" ))
