@@ -1,5 +1,8 @@
+Author: Maël Montévil
 # disruption-phenology
-CRAN R code to analyze disruption of plant-pollinator networks
+CRAN R code to analyze disruption of plant-pollinator networks for the article: 
+_Disruption of biological processes in the Anthropocene: the case of phenological mismatch_
+
 
 ## files
 - anlaysis.r: example uses
