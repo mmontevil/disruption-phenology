@@ -4,9 +4,8 @@ CRAN R code to analyze disruption of plant-pollinator networks for the article:
 _Disruption of biological processes in the Anthropocene: the case of phenological mismatch_
 
 
-Cite as Montévil, M. 2020, _code for: Disruption of biological processes in the Anthropocene: the case of phenological mismatch_
+Cite as Montévil, M. 2020, _code for: Disruption of biological processes in the Anthropocene: the case of phenological mismatch_ DOI: 10.5281/zenodo.4290412
 
-[![DOI](https://zenodo.org/badge/315939416.svg)](https://zenodo.org/badge/latestdoi/315939416)
 
 
 
