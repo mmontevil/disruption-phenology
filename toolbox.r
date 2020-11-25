@@ -14,6 +14,7 @@ enableJIT(1)
 
 #compile and load cpp
 sourceCpp(paste(sourcedir,'source.cpp',sep="" ))
+refs<- read.csv(file =dataRefs,header=T)
 
 #global variables
 meanplant=mean(plantphen$endRob-plantphen$startRob)
