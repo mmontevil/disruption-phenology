@@ -1,6 +1,11 @@
 # disruption-phenology
 CRAN R code to analyze disruption of plant-pollinator networks
 
+## files
+- anlaysis.r: example uses
+- tooblox.r: R functions
+- source.cpp: RCPP code
+
 
 ## Download data
 in data folder
