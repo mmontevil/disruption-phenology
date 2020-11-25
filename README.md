@@ -4,7 +4,7 @@ CRAN R code to analyze disruption of plant-pollinator networks for the article:
 _Disruption of biological processes in the Anthropocene: the case of phenological mismatch_
 
 
-## files
+## Files
 - anlaysis.r: example uses
 - tooblox.r: R functions
 - source.cpp: RCPP code
