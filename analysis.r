@@ -105,7 +105,7 @@ rescum0= entropizeseries2load ( randomize=FALSE, thres=0, act=0,effectm=1,effect
 rescum0r= entropizeseries2load (randomize=TRUE, thres=0, act=0,effectm=1,effectv=1,alter=T,alterand=T)
 
 #load saved results and combines them (original network - null model)
-dataset0= entropizeseries2loadcombined ( randomize=T, thres=0, act=0,effectm=1,effectv=1,alter=F,alterand=T,refs)
+dataset0= entropizeseries2loadcombined ( randomize=T, thres=0, act=0,effectm=1,effectv=1,alter=T,alterand=T,refs)
        
 plot( disappb ~time, dataset0)
 x=lmrob( disappb ~lat* time, data=dataset0); summary(x)
